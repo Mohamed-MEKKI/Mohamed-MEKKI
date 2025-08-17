@@ -61,18 +61,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mohamed-MEKKI.Mohamed-MEKKI&"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mohamed-MEKKI.Mohamed-MEKKI&"  />
-</div>
-
-###
-
 <div align="left">
 </div>
 
