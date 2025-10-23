@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mohamed MEKKI and I'm a ..., from ....</p>
+<p align="left">My name is Mohamed MEKKI and I'm a Junior Computer Science Engineer, based in Courbevoie, France</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022 <br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2022 <br>
 
 ###
 
